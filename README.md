@@ -22,7 +22,7 @@
 
 <h2>Questions time!</h2>
 
-<div align="right" position="absolute">
+<div align="right" style="position: absolute;" position="absolute">
   <img src="https://media.giphy.com/media/KazKNpwOrLmngkbme0/giphy.gif" align="right;">
 </div>
 
