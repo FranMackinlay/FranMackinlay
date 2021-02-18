@@ -1,6 +1,6 @@
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQHMQcyoVIQ50w/profile-displaybackgroundimage-shrink_350_1400/0/1610385930597?e=1619049600&v=beta&t=QqxMLIM5IHgvh37i2S8URo_1S-ADc3YwVqDNmq-DsZQ" width="100%">
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="25px">
 
 
 <p>
@@ -33,7 +33,7 @@
 <p>JavaScript.</p>
 
 <h3> What I'm passionate about? </h3>
-<img src="https://i.pinimg.com/originals/67/b2/a9/67b2a9ba5e85822f237caae92111e938.gif" width="25%">
+<img src="https://media.giphy.com/media/e7PqS0VCIsmi6LKkY4/giphy.gif" width="25%">
 
 <h3>Where can you find me?</h3>
 <p>
