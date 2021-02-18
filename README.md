@@ -2,6 +2,8 @@
 
 # Welcome to my profile! <img src="https://media.giphy.com/media/KazKNpwOrLmngkbme0/giphy.gif" width="100px">
 
+<br>
+<br>
 
 <p>
   Almost two years ago I started training as a <b>Full Stack Web Developer</b> (training never ends). 
@@ -19,6 +21,8 @@
 </p>
 
 <h2>Questions time!</h2>
+
+<span style="position: absolute; top: 50%;">Hola mundo</span>
 
 <h3>Which browser do I use?</h3>
 <p><a href="https://www.google.com/intl/es/chrome/">Google Chrome </a><i>for development and personal use.</i></p>
