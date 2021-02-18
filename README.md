@@ -22,7 +22,7 @@
 
 <h2>Questions time!</h2>
 
-<span align="right;">Hola mundo</span>
+<img src="https://media.giphy.com/media/KazKNpwOrLmngkbme0/giphy.gif" align="right;">
 
 <h3>Which browser do I use?</h3>
 <p><a href="https://www.google.com/intl/es/chrome/">Google Chrome </a><i>for development and personal use.</i></p>
