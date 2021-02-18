@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="https://ibb.co/d7g2hXd">
+<img src="https://i.ibb.co/GFT2hGK/francisco-mackinlay-linkedin-badge.png">
 
 
 <p>
