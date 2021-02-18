@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![Github Badge](https://img.shields.io/github/followers/franmackinlay?label=Followers&style=social)
+[![Linkedin Badge](https://img.shields.io/badge/-Francisco%Mackinlay-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-mackinlay/)](https://www.linkedin.com/in/francisco-mackinlay/)
 
-<!--
-**FranMackinlay/FranMackinlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  Almost two years ago I started training as a<b>Full Stack Web Developer</b> (training never ends). I am always looking for opportunities for growth and development both personally and professionally. I consider myself a responsible, creative and ambitious developer. I want to continue training myself, facing new situations and new challenges, adding value to any organization. I bet on constant learning and the enrichment proposed by teamwork.
+</p>
+</br>
+<ul>
+  <li> 🔭 I’m currently working on something cool :wink:</li>
+  <li> ⚡ I’m currently perfecting React, AngularJs, Vue, Redux and NodeJs</li>
+</ul>
 
-Here are some ideas to get you started:
+<h2>What tools I use?</h2>
+<p><a href="https://code.visualstudio.com">VSCode</a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Questions time!</h2>
+
+<h3>Which browser do I use?</h3>
+<p><a href="https://www.google.com/intl/es/chrome/">Google Chrome </a><i>for development and personal use.</i></p>
+
+<h3>iOS or Android?</h3>
+<p>iOS, always.</p>
+
+<h3>Prefered programming language?</h3>
+<p>JavaScript and soon TypeScript.</p>
