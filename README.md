@@ -24,28 +24,28 @@
 
 <div align="right">
   <img width="33%" src="https://media.giphy.com/media/AFuvqdSLGoaJGTE7Iy/giphy.gif" align="right;">
+  
+  <h3>Which browser do I use?</h3>
+  <p><a href="https://www.google.com/intl/es/chrome/">Google Chrome </a><i>for development and personal use.</i></p>
+
+  <h3>iOS or Android?</h3>
+  <p>📱.</p>
+
+  <h3>Mac or Windows?</h3>
+  <p>🖥.</p>
+
+  <h3>Prefered programming language?</h3>
+  <p>JavaScript.</p>
+
+  <h3> What I'm passionate about? </h3>
+  <img src="https://media.giphy.com/media/e7PqS0VCIsmi6LKkY4/giphy.gif" width="50px">
+
+  <h3>Where can you find me?</h3>
+  <p>
+    <a href="https://linkedin.com/in/francisco-mackinlay" target="_blank" rel="nofollow">
+      <img src="https://i.ibb.co/GFT2hGK/francisco-mackinlay-linkedin-badge.png">
+    </a>
+  </p>
 </div>
-
-<h3>Which browser do I use?</h3>
-<p><a href="https://www.google.com/intl/es/chrome/">Google Chrome </a><i>for development and personal use.</i></p>
-
-<h3>iOS or Android?</h3>
-<p>📱.</p>
-
-<h3>Mac or Windows?</h3>
-<p>🖥.</p>
-
-<h3>Prefered programming language?</h3>
-<p>JavaScript.</p>
-
-<h3> What I'm passionate about? </h3>
-<img src="https://media.giphy.com/media/e7PqS0VCIsmi6LKkY4/giphy.gif" width="50px">
-
-<h3>Where can you find me?</h3>
-<p>
-  <a href="https://linkedin.com/in/francisco-mackinlay" target="_blank" rel="nofollow">
-    <img src="https://i.ibb.co/GFT2hGK/francisco-mackinlay-linkedin-badge.png">
-  </a>
-</p>
 
 
