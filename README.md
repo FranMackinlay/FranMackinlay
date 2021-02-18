@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="https://drive.google.com/file/d/11u-faF4-LXH9wMfpV4oOU1mxFciEC0IL/view">
+<img src="https://ibb.co/d7g2hXd">
 
 
 <p>
