@@ -1,6 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![Github Badge](https://img.shields.io/github/followers/franmackinlay?label=Followers&style=social)
-[![Linkedin Badge](<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/francisco-mackinlay/)
+<i class="fab fa-linkedin"></i>
 
 <p>
   Almost two years ago I started training as a<b>Full Stack Web Developer</b> (training never ends). I am always looking for opportunities for growth and development both personally and professionally. I consider myself a responsible, creative and ambitious developer. I want to continue training myself, facing new situations and new challenges, adding value to any organization. I bet on constant learning and the enrichment proposed by teamwork.
