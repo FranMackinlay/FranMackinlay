@@ -33,7 +33,7 @@
 <p>JavaScript.</p>
 
 <h3> What I'm passionate about? </h3>
-<img src="https://i.pinimg.com/originals/67/b2/a9/67b2a9ba5e85822f237caae92111e938.gif">
+<img src="https://i.pinimg.com/originals/67/b2/a9/67b2a9ba5e85822f237caae92111e938.gif" width="25%">
 
 <h3>Where can you find me?</h3>
 <p>
