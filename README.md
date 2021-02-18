@@ -21,8 +21,6 @@
 
 <h2>Questions time!</h2>
 
-<img align="right" width="20%" src="https://media.giphy.com/media/AFuvqdSLGoaJGTE7Iy/giphy.gif" align="right;">
-
 
 <h3>Which browser do I use?</h3>
 <p><a href="https://www.google.com/intl/es/chrome/">Google Chrome </a><i>for development and personal use.</i></p>
@@ -32,6 +30,8 @@
 
 <h3>Mac or Windows?</h3>
 <p>🖥.</p>
+
+<img align="right" width="20%" src="https://media.giphy.com/media/AFuvqdSLGoaJGTE7Iy/giphy.gif" align="right;">
 
 <h3>Prefered programming language?</h3>
 <p>JavaScript.</p>
