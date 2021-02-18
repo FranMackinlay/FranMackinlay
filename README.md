@@ -2,8 +2,6 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="https://i.ibb.co/GFT2hGK/francisco-mackinlay-linkedin-badge.png">
-
 
 <p>
   Almost two years ago I started training as a <b>Full Stack Web Developer</b> (training never ends). 
@@ -37,7 +35,7 @@
 <h3>Where can you find me?</h3>
 <p>
   <a href="https://linkedin.com/in/francisco-mackinlay" target="_blank" rel="nofollow">
-    <img src="https://res.cloudinary.com/hdsqazxtw/image/upload/v1604005740/1604005740119-tool-linkedin_vkyj99.svg" width="25px">
+    <img src="https://i.ibb.co/GFT2hGK/francisco-mackinlay-linkedin-badge.png">
   </a>
 </p>
 
