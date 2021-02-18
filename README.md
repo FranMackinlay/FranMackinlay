@@ -23,7 +23,7 @@
 <h2>Questions time!</h2>
 
 <div align="right" style="position: absolute;" position="absolute">
-  <img src="https://media.giphy.com/media/KazKNpwOrLmngkbme0/giphy.gif" align="right;">
+  <img src="https://media.giphy.com/media/AFuvqdSLGoaJGTE7Iy/giphy.gif" align="right;">
 </div>
 
 <h3>Which browser do I use?</h3>
