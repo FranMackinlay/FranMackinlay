@@ -40,6 +40,8 @@
     <img src="https://res.cloudinary.com/hdsqazxtw/image/upload/v1604005740/1604005740119-tool-linkedin_vkyj99.svg" width="25px">
   </a>
 </p>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="dark" data-vanity="francisco-mackinlay"><a class="LI-simple-link" href='https://ar.linkedin.com/in/francisco-mackinlay?trk=profile-badge'>Francisco Mackinlay</a></div>
+<script
+type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer>
+</script>
 
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
