@@ -22,8 +22,8 @@
 
 <h2>Questions time!</h2>
 
-<div align="right" width="33%">
-  <img src="https://media.giphy.com/media/AFuvqdSLGoaJGTE7Iy/giphy.gif" align="right;">
+<div align="right">
+  <img width="33%" src="https://media.giphy.com/media/AFuvqdSLGoaJGTE7Iy/giphy.gif" align="right;">
 </div>
 
 <h3>Which browser do I use?</h3>
