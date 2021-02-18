@@ -13,7 +13,9 @@
 </ul>
 
 <h2>What tools I use?</h2>
-<p><a href="https://code.visualstudio.com">VSCode</a></p>
+<p>
+  <a href="https://code.visualstudio.com">VSCode</a>, and lots of plugins and extensions🚀
+</p>
 
 <h2>Questions time!</h2>
 
