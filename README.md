@@ -22,7 +22,7 @@
 
 <h2>Questions time!</h2>
 
-<span style="position: absolute; top: 50%;">Hola mundo</span>
+<span style="foat: right;">Hola mundo</span>
 
 <h3>Which browser do I use?</h3>
 <p><a href="https://www.google.com/intl/es/chrome/">Google Chrome </a><i>for development and personal use.</i></p>
