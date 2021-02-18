@@ -3,7 +3,6 @@
 # Welcome to my profile! <img src="https://media.giphy.com/media/KazKNpwOrLmngkbme0/giphy.gif" width="100px">
 
 <br>
-<br>
 
 <p>
   Almost two years ago I started training as a <b>Full Stack Web Developer</b> (training never ends). 
