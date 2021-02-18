@@ -32,6 +32,9 @@
 <h3>Prefered programming language?</h3>
 <p>JavaScript.</p>
 
+<h3> What I'm passionate about? </h3>
+<img src="https://i.pinimg.com/originals/67/b2/a9/67b2a9ba5e85822f237caae92111e938.gif">
+
 <h3>Where can you find me?</h3>
 <p>
   <a href="https://linkedin.com/in/francisco-mackinlay" target="_blank" rel="nofollow">
