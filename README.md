@@ -38,7 +38,7 @@
 <p>JavaScript.</p>
 
 <h3> What I'm passionate about? </h3>
-<img src="https://media.giphy.com/media/e7PqS0VCIsmi6LKkY4/giphy.gif" width="50px">
+<img src="https://media.giphy.com/media/Vgf29q3Ffq73sUANfW/giphy.gif" width="50px">
 
 <h3>Where can you find me?</h3>
 <p>
