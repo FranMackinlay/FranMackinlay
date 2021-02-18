@@ -1,6 +1,6 @@
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQHMQcyoVIQ50w/profile-displaybackgroundimage-shrink_350_1400/0/1610385930597?e=1619049600&v=beta&t=QqxMLIM5IHgvh37i2S8URo_1S-ADc3YwVqDNmq-DsZQ">
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100%">
 
 
 <p>
