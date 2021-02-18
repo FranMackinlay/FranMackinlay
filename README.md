@@ -29,7 +29,7 @@
 
 <h3>Where can you find me?</h3>
 <p>
-  <a href="https://linkedin.com/in/francisco-mackinlay" target="_blank" rel="nofollow">
+  <a href="https://linkedin.com/in/francisco-mackinlay" target="blank" rel="nofollow">
     <img src="https://res.cloudinary.com/hdsqazxtw/image/upload/v1604005740/1604005740119-tool-linkedin_vkyj99.svg" width="25px">
   </a>
 </p>
