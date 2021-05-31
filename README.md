@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQHMQcyoVIQ50w/profile-displaybackgroundimage-shrink_350_1400/0/1610385930597?e=1619049600&v=beta&t=QqxMLIM5IHgvh37i2S8URo_1S-ADc3YwVqDNmq-DsZQ" width="100%">
+<img src="https://res.cloudinary.com/ducmbpfde/image/upload/v1622471965/portrait_c8aw4x.jpg" width="100%">
 
 # Welcome to my profile! <img src="https://media.giphy.com/media/KazKNpwOrLmngkbme0/giphy.gif" width="100px">
 
