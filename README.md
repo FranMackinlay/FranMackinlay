@@ -34,7 +34,7 @@
 <img align="right" width="20%" src="https://media.giphy.com/media/AFuvqdSLGoaJGTE7Iy/giphy.gif" align="right;">
 
 <h3>Prefered programming language?</h3>
-<p>JavaScript.</p>
+<p>JavaScript / Typescript.</p>
 
 <h3> What I'm passionate about? </h3>
 <img src="https://media.giphy.com/media/Vgf29q3Ffq73sUANfW/giphy.gif" width="150px">
